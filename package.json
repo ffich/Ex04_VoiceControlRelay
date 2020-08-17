@@ -1,0 +1,12 @@
+{
+    "name": "Ex04_VoiceControlRelay",
+    "description": "Example that control a relay from Amazon Alexa. It uses a Jupiter Model A and a Relay 3 click.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
